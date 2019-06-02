@@ -1,0 +1,14 @@
+body {
+    background: white url("web.webp") no-repeat fixed center;
+    margin-left: 30%;
+    margin-top:10%;
+}
+ul {
+	color:white;
+}
+h1{
+	color:white;
+}
+a{
+	color:white;
+}
